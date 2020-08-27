@@ -1,5 +1,7 @@
 # Fx Medium Example
 
+Full blog post can be found here https://medium.com/@erez.levi/using-uber-fx-to-simplify-dependency-injection-875363245c4c
+
 ## To Install
     go get github.com/ErezLevip/fx-medium-example
 
